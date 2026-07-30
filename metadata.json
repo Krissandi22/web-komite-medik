@@ -1,0 +1,6 @@
+{
+  "name": "Komite Medik RST Pematang Siantar",
+  "description": "Portal Resmi dan Sistem Informasi Tata Kelola Medis, Kredensialing, Mutu Profesi, dan Disiplin Dokte Rumah Sakit Tentara Pematang Siantar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
